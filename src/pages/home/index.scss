@@ -1,0 +1,32 @@
+.blue-tooth-index {
+  background: #F7FAFF;
+  min-height: 100vh;
+  height: 100%;
+  padding: 20px 40px 40px 40px;
+  .blue-title {
+    padding: 10px 30px;
+    border-left: 10px solid #6190E8;
+    color: #5D6373;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 25px;
+  }
+  .blue-btn {
+    margin-top: 20px;
+  }
+  .long-range-open {
+    display: inline-block;
+    width: 48%;
+  }
+  .long-range-close {
+    display: inline-block;
+    position: relative;
+    left: 4%;
+    width: 48%;
+  }
+  .blue-log {
+    .at-article__p:first-child {
+      color: #6190E8;
+    }
+  }
+}
